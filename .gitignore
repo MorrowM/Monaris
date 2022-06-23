@@ -2,7 +2,7 @@
 *.o
 *.hi
 cabal-dev
-dist
+dist*
 Monaris.exe
 Thumbs.db
 Desktop.ini
